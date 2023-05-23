@@ -19,3 +19,7 @@ make sure to pull the direction pin correctly.
 
 I'm a total noob when it comes to electronics, so please feel free to let me know if I'm doing
 something stupid :^).
+
+## Setup and display example
+
+![Breadboard setup and display example](setup.jpg)
